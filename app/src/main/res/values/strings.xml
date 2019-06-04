@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Page</string>
+
+
+    <string name="flower1" translatable="false">荷花</string>
+    <string name="flower2" translatable="false">水仙</string>
+    <string name="flower3" translatable="false">金银花</string>
+    <string name="flower1_info" translatable="false">荷花又名莲花，是一种水生草本植物。它生于碧波之中，花开于炎夏之时。叶似碧玉盘，茎似绿翠柱，花如出水芙蓉，清香远溢。</string>
+    <string name="flower2_info" translatable="false">水仙（Narcissus tazettaL. var. chinensis Roem. ）：又名中国水仙，是多花水仙的一个变种。</string>
+    <string name="flower3_info" translatable="false">金银花 ，又名忍冬（学名：Lonicera japonica）。“金银花”一名出自《本草纲目》，由于忍冬花初开为白色，后转为黄色，因此得名金银花。</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
